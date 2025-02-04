@@ -1,0 +1,27 @@
+h1{
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*9xy9y4*_gcl_aw*R0NMLjE3Mzc0ODA2MzIuQ2owS0NRaUFxTDI4QmhDckFSSXNBQ1lKdmtlSlV5VjdIT1dYdzdmV3A2UGtvUFBVUUJzYkxEbjRUTVlmd282dkplMjA1a1FZdFFOZGdJNGFBdkVoRUFMd193Y0I.*_gcl_au*MzcxNzY3MDY4LjE3MzY0NzQ0OTQ.*_ga*MTIxMzUyOTgzMC4xNzM2NDc0NDkz*_ga_3LRZM6TM9L*MTczODY3ODQ0OC4zLjEuMTczODY4MjkzMS41NC4wLjA.');
+    background-size: cover;
+    text-align: center;
+    color: rgb(30, 47, 45);
+}
+
+.blue{
+    color: blue;
+}
+
+.topik{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sub-judul{
+    background-color: rgb(37, 217, 17);
+}
+
+.sub-judul2{
+    background-color: rgb(239, 57, 160);
+}
+
+.sub-judul3{
+    background-color: rgb(255, 255, 0);
+}
